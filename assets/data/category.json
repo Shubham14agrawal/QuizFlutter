@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "name": "Science",
+    "imagePath": "assets/icons/category/science.png"
+  },
+  {
+    "id": 2,
+    "name": "Language",
+    "imagePath": "assets/icons/category/language.png"
+  },
+  {
+    "id": 3,
+    "name": "Mathematics",
+    "imagePath": "assets/icons/category/math.png"
+  }
+]
